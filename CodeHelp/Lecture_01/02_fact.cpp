@@ -1,17 +1,17 @@
 #include<iostream>
 using namespace std;
-void sum( int n ) {
-    cout << "Sum of 1 to " << n << endl;
-    int sumNum = 0;
+void fact( int n ) {
+    cout << "factorial " << n << endl;
+    int factNum = 1;
     for (int i = 1;i <= n;i++) {
-        sumNum += i;
+        factNum *= i;
     }
-    cout << sumNum << endl;
+    cout << factNum << endl;
 }
 int main() {
     int n;
     cout << "Enter a number : " << endl;
     cin >> n;
-    sum( n );
+    fact( n );
     return 0;
 }
