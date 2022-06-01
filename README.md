@@ -14,6 +14,10 @@ Currently: Student of MCA at Poddar Management and Technical campus, Jaipur.
 
 ## Where to learn DSA
 
+Youtube Channel: CodeHelp - by Babbar
+
+Your Instructor: Love Babbar
+
 @loveBabbar <https://github.com/loveBabbar>
 
 [![youtube](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/3PV1CsT)
