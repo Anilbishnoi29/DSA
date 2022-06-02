@@ -8,12 +8,12 @@ int main() {
     cin >> n;
     while (i <= n) {
         int j = 1;
-        while (j <= n) {
-            cout << i << " ";
+        while (j <= i) {
+            cout << "* ";
             j++;
         }
-        i++;
         cout << endl;
+        i++;
     }
 
     return 0;
